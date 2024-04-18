@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\TreesZaimovDaniel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BB025E-C7FC-4ECF-AB2B-B60FD2071EAA}|..\\Trees2\\Trees2.csproj|c:\\users\\students-1212-11\\desktop\\daniel 11d\\trees2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E73B5E-42A6-4F0C-A8F3-E5ABFC788BD9}|TreesZaimovDaniel\\Trees.csproj|c:\\users\\students-1212-11\\desktop\\daniel 11d\\treeszaimovdaniel\\treeszaimovdaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7E73B5E-42A6-4F0C-A8F3-E5ABFC788BD9}|TreesZaimovDaniel\\Trees.csproj|solutionrelative:treeszaimovdaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BB025E-C7FC-4ECF-AB2B-B60FD2071EAA}|..\\Trees2\\Trees2.csproj|c:\\users\\students-1212-11\\desktop\\daniel 11d\\trees2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E73B5E-42A6-4F0C-A8F3-E5ABFC788BD9}|TreesZaimovDaniel\\Trees.csproj|C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\TreesZaimovDaniel\\treeszaimovdaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E73B5E-42A6-4F0C-A8F3-E5ABFC788BD9}|TreesZaimovDaniel\\Trees.csproj|solutionrelative:treeszaimovdaniel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\Trees2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Trees2\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\Trees2\\Form1.cs",
+              "RelativeToolTip": "..\\Trees2\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:29:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\Trees2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Trees2\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\Trees2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Trees2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:12:36.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\TreesZaimovDaniel\\TreesZaimovDaniel\\Form1.cs",
+              "RelativeDocumentMoniker": "TreesZaimovDaniel\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\TreesZaimovDaniel\\TreesZaimovDaniel\\Form1.cs",
+              "RelativeToolTip": "TreesZaimovDaniel\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:34:30.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\TreesZaimovDaniel\\TreesZaimovDaniel\\Form1.cs",
+              "RelativeDocumentMoniker": "TreesZaimovDaniel\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-11\\Desktop\\Daniel 11D\\TreesZaimovDaniel\\TreesZaimovDaniel\\Form1.cs [Design]",
+              "RelativeToolTip": "TreesZaimovDaniel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:07:02.157Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

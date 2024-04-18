@@ -1,0 +1,10 @@
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\bin\Debug\TreesZaimovDaniel.exe.config
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\bin\Debug\TreesZaimovDaniel.exe
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\bin\Debug\TreesZaimovDaniel.pdb
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\Trees.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\TreesZaimovDaniel.Form1.resources
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\TreesZaimovDaniel.Properties.Resources.resources
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\Trees.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\TreesZaimovDaniel.exe
+C:\Users\STUDENTS-1212-11\Desktop\Daniel 11D\TreesZaimovDaniel\TreesZaimovDaniel\obj\Debug\TreesZaimovDaniel.pdb
